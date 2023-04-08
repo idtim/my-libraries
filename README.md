@@ -4,7 +4,7 @@
 
 <br>
 
-> Pour utiliser cette lib copier la balise ci-dessous dans la section `head` du fichier `html` <br>
+> Ajouter cette balise `link` dans `head` :<br>
 > ```html
 > <link rel="stylesheet" type="text/css" href="https://idtim.github.io/my-libraries/src/vancss.css">
 > ```
