@@ -1,2 +1,7 @@
+:root {
+    /* colors */
+    --black: rgb(0, 0, 0);
+}
+
 .b {font-weight: bold;}
 .i {font-style: italic;}
