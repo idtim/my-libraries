@@ -1,1 +1,1 @@
-## My libraries ([wiki](https://github.com/idtim/my-libraries/wiki))
+## My Libraries ([wiki](https://github.com/idtim/my-libraries/wiki))
